@@ -4,14 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev":"parcel index.html",
-    "watch":"parcel watch index.html",
-    "build":"parcel build index.js",
+    "dev": "parcel index.html",
+    "watch": "parcel watch index.html",
+    "build": "parcel build index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ananthakr",
   "license": "ISC",
   "dependencies": {
-    "papercss": "^1.5.3"
+    "papercss": "^1.5.3",
+    "parcel-bundler": "^1.12.3"
   }
 }
