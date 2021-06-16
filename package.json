@@ -2,7 +2,7 @@
   "name": "ananthakumar",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.html",
   "scripts": {
     "dev": "parcel index.html",
     "watch": "parcel watch index.html",
@@ -12,6 +12,10 @@
   "author": "ananthakr",
   "license": "ISC",
   "dependencies": {
-    "parcel-bundler": "^1.12.3"
+    "parcel": "^2.0.0-beta.3.1"
+  },
+  "devDependencies": {
+    "cssnano": "^5.0.6",
+    "postcss": "^8.3.4"
   }
 }
