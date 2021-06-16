@@ -12,7 +12,7 @@
   "author": "ananthakr",
   "license": "ISC",
   "dependencies": {
-    "parcel": "^2.0.0-beta.3.1"
+    "parcel": "^2.0.0-beta.1"
   },
   "devDependencies": {
     "cssnano": "^5.0.6",
